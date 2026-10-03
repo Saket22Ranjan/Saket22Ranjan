@@ -117,3 +117,15 @@ Spring Security & Authentication
 Databases & Application Architecture
         ↓
 Full-Stack Applications
+
+
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Saket22Ranjan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saket22Ranjan&layout=compact&theme=tokyonight&hide_border=true" height="170"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=Saket22Ranjan&theme=tokyonight&hide_border=true" /> </p>
+
+
+🐍 Contribution Graph
+<p align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/> </p>
+
+
+🌐 Let's Connect
+<p align="center"> <a href="https://github.com/Saket22Ranjan"> <img src="https://img.shields.io/badge/GitHub-Saket22Ranjan-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/saket-ranjan-a89474418/"> <img src="https://img.shields.io/badge/LinkedIn-Saket%20Ranjan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:shaketranjan84@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
